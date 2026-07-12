@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#101820" />
+    <title>网盘地址复制</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section id="homePage" class="page page-home is-active" aria-labelledby="homeTitle">
+        <div class="brand-bar">
+          <div>
+            <p class="eyebrow">门户功能</p>
+            <h1 id="homeTitle">请选择功能</h1>
+          </div>
+        </div>
+
+        <button id="openLinksBtn" class="feature-card" type="button">
+          <span class="feature-icon" aria-hidden="true">⧉</span>
+          <span>
+            <strong>网盘地址复制</strong>
+            <small>电影网盘链接，一键复制完整内容</small>
+          </span>
+        </button>
+      </section>
+
+      <section id="copyPage" class="page page-copy" aria-labelledby="copyTitle">
+        <header class="copy-header">
+          <button id="backBtn" class="icon-btn" type="button" aria-label="返回功能选择">‹</button>
+          <div>
+            <p class="eyebrow">网盘地址复制</p>
+            <h1 id="copyTitle">电影列表</h1>
+          </div>
+        </header>
+
+        <div class="search-wrap">
+          <input id="searchInput" type="search" placeholder="搜索电影名称" autocomplete="off" />
+        </div>
+
+        <div id="movieList" class="movie-list" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <script src="./pan-config.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
