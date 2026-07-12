@@ -16,6 +16,20 @@ window.PAN_LINKS_CONFIG = {
       ]
     },
     {
+      name: "西游伏妖篇",
+      links: [
+        { label: "阿里云盘", url: "https://www.alipan.com/s/EbEZJZ7LRmc" },
+        {
+          label: "百度盘",
+          url: "https://pan.baidu.com/s/1CfVhte9Rz_OK6dSIpKO7dQ",
+          codeLabel: "提取码",
+          code: "nkjg"
+        },
+        { label: "夸克盘", url: "https://pan.quark.cn/s/ea683ba09528#/list/share" },
+        { label: "迅雷盘", url: "https://pan.xunlei.com/s/VOtzlb8eXeTPKjoQ38SlHJ4_A1?pwd=ny9c" }
+      ]
+    },
+    {
       name: "痴迷电影",
       links: [
         { label: "迅雷", url: "https://pan.xunlei.com/s/VOxJ_NeKG53EI5DkS3ghoDCDA1?pwd=vk9j#" },
