@@ -121,6 +121,53 @@ window.PAN_LINKS_CONFIG = {
         },
         { label: "夸克", url: "https://pan.quark.cn/s/c5ac7242db5d#/list/share" }
       ]
+    },
+    {
+      name: "人皮客栈",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1BP0eAG6jd1QsFzR45vcQdg?pwd=ci6s",
+          codeLabel: "提取码",
+          code: "ci6s"
+        },
+        {
+          label: "迅雷",
+          url: "https://pan.baidu.com/s/1BP0eAG6jd1QsFzR45vcQdg?pwd=ci6s",
+          codeLabel: "提取码",
+          code: "ci6s"
+        },
+        { label: "夸克", url: "https://pan.quark.cn/s/5b75fad50f14#/list/share" },
+        {
+          label: "阿里",
+          url: "https://www.aliyundrive.com/s/7db9sRDrx1c/folder/61bd3ff72f23617355fe4b1f88e2c8f155776723"
+        }
+      ]
+    },
+    {
+      name: "昆池岩",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1c4aV3fnbBdmBVBc95oa_UQ?pwd=p4th",
+          codeLabel: "提取码",
+          code: "p4th"
+        }
+      ]
+    },
+    {
+      name: "电锯惊魂",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1GREHOVTGFa0ewlTotR0YNA?pwd=88bd",
+          codeLabel: "提取码",
+          code: "88bd"
+        },
+        { label: "阿里", url: "https://www.aliyundrive.com/s/MLigrYZLx6h" },
+        { label: "夸克", url: "https://pan.quark.cn/s/6fe262b0ca28#/list/share" },
+        { label: "迅雷", url: "https://pan.xunlei.com/s/VOmVO-doTCNnL3IMZPLoogOFA1?pwd=j93v" }
+      ]
     }
   ]
 };
