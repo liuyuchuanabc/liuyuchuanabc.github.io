@@ -22,7 +22,7 @@
   }
 
   function formatLinkText(item) {
-    var lines = [item.label + "：" + item.url];
+    var lines = [item.url];
     if (item.code) {
       lines.push((item.codeLabel || "提取码") + "：" + item.code);
     }

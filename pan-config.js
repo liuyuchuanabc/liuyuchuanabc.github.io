@@ -36,9 +36,9 @@ window.PAN_LINKS_CONFIG = {
         { label: "夸克", url: "https://pan.quark.cn/s/cfcf7f8c3160" },
         {
           label: "百度",
-          url: "https://pan.baidu.com/s/1Pr5ZCFH_q_STczVCpE3I8A?pwd=fgar#list/path=%2F",
+          url: "https://pan.baidu.com/s/1a8fCl2Kf-CYK4RVIOl4y_g?pwd=3x4c",
           codeLabel: "提取码",
-          code: "fgar"
+          code: "3x4c"
         }
       ]
     },
