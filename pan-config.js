@@ -43,6 +43,31 @@ window.PAN_LINKS_CONFIG = {
       ]
     },
     {
+      name: "后室",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/e2def7cf02d4#/list/share" },
+        { label: "迅雷", url: "https://pan.xunlei.com/s/VOxUQna0NZzy6pkpLMC_IaXlA1?pwd=6j3x" },
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1PSSLytqvCUU3oZYdwPkaDQ?pwd=stsy",
+          codeLabel: "提取码",
+          code: "stsy"
+        }
+      ]
+    },
+    {
+      name: "落叶归根",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/a32d2f35f62c#/list/share" },
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/15l1-CCZmS5Ob_2DK2A1yhw?pwd=5hg7",
+          codeLabel: "提取码",
+          code: "5hg7"
+        }
+      ]
+    },
+    {
       name: "杀的就是你",
       links: [
         { label: "阿里云", url: "https://www.alipan.com/s/gxWEbZ7EbS7" },
@@ -167,6 +192,17 @@ window.PAN_LINKS_CONFIG = {
         { label: "阿里", url: "https://www.aliyundrive.com/s/MLigrYZLx6h" },
         { label: "夸克", url: "https://pan.quark.cn/s/6fe262b0ca28#/list/share" },
         { label: "迅雷", url: "https://pan.xunlei.com/s/VOmVO-doTCNnL3IMZPLoogOFA1?pwd=j93v" }
+      ]
+    },
+    {
+      name: "惊蛰，落叶，熊猫，后室，肖申克，茶馆，心花，阿甘，来电，老友记，调音师",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1f2zouSTc8GHT1fBuvgG2EA?pwd=qd66",
+          codeLabel: "提取码",
+          code: "qd66"
+        }
       ]
     }
   ]
