@@ -11,7 +11,7 @@ window.PAN_LINKS_CONFIG = {
     {
       name: "少林足球",
       links: [
-        { label: "夸克", url: "https://pan.quark.cn/s/e217768cefe2", tags: ["1080P", "17.9G"] },
+        { label: "夸克", url: "https://pan.quark.cn/s/e217768cefe2", tags: ["1080P", "17.9G", "己盘"] },
         {
           label: "迅雷",
           url: "https://pan.xunlei.com/s/VOtzi0-CeMABURQ1xwyp1EuwA1?pwd=a5n2",
@@ -61,7 +61,7 @@ window.PAN_LINKS_CONFIG = {
     {
       name: "喜剧之王",
       links: [
-        { label: "夸克", url: "https://pan.quark.cn/s/1d8b1b905794", tags: ["1080P", "2.5G"] },
+        { label: "夸克", url: "https://pan.quark.cn/s/1d8b1b905794", tags: ["1080P", "2.5G", "己盘"] },
         {
           label: "迅雷",
           url: "https://pan.xunlei.com/s/VOllmjHHTtCVqPWRm_CZI6uBA1?pwd=jt7p",
@@ -89,14 +89,14 @@ window.PAN_LINKS_CONFIG = {
           code: "iavh",
           tags: ["1080P","21.97G", "己盘"]
         },
-        { label: "夸克盘", url: "https://pan.quark.cn/s/669c60508062", tags: ["1080P", "18.1G"] },
+        { label: "夸克盘", url: "https://pan.quark.cn/s/669c60508062", tags: ["1080P", "18.1G", "己盘"] },
         { label: "迅雷盘", url: "https://pan.xunlei.com/s/VOtzllZhIwg4D7w4UWp4NmxPA1?pwd=hipe", tags: ["1080P", "外盘"] }
       ]
     },
     {
       name: "西游伏妖篇",
       links: [
-        { label: "阿里云盘", url: "https://www.alipan.com/s/EbEZJZ7LRmc", tags: ["1080P"] },
+        { label: "阿里云盘", url: "https://www.alipan.com/s/EbEZJZ7LRmc", tags: ["1080P", "5.64G", "己盘"] },
         {
           label: "百度盘",
           url: "https://pan.baidu.com/j/1oXqNjgbEOl",
