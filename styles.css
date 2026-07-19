@@ -265,6 +265,25 @@ h1 {
   font-weight: 700;
 }
 
+.disk-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 2px;
+}
+
+.disk-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border: 1px solid rgba(15, 118, 110, 0.28);
+  border-radius: 4px;
+  background: #e7f4f2;
+  color: var(--primary-dark);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
 .empty-state {
   margin: 24px 0 0;
   padding: 24px 16px;
