@@ -24,6 +24,20 @@ window.PAN_LINKS_CONFIG = {
       ]
     },
     {
+      name: "无耻之徒",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/8244f87652ca", tags: ["己盘", "4K", "800G"] },
+        { 
+          label: "百度", 
+          url: "https://pan.baidu.com/s/1PlJKapKCr8g-GxL3Rcu8nQ?pwd=7uxz", 
+          codeLabel: "提取码",
+          code: "7uxz",
+          tags: ["己盘", "4K", "800G"] 
+        }
+
+      ]
+    },
+    {
       name: "盲井",
       links: [
         // { label: "夸克", url: "https://pan.quark.cn/s/283179ba4da1", tags: ["己盘", "1080P", "4.4G"] },
