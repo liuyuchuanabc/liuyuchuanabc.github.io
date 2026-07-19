@@ -109,6 +109,19 @@
         linkText.appendChild(code);
       }
 
+      var tags = Array.isArray(item.tags) ? item.tags.filter(Boolean) : [];
+      if (tags.length) {
+        var tagRow = document.createElement("div");
+        tagRow.className = "disk-tags";
+        tags.forEach(function (tagName) {
+          var tag = document.createElement("span");
+          tag.className = "disk-tag";
+          tag.textContent = tagName;
+          tagRow.appendChild(tag);
+        });
+        linkText.appendChild(tagRow);
+      }
+
       var copyButton = document.createElement("button");
       copyButton.className = "copy-btn";
       copyButton.type = "button";
