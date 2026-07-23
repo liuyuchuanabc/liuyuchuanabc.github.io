@@ -9,6 +9,58 @@ window.PAN_LINKS_CONFIG = {
   pageTitle: "网盘地址复制",
   movies: [
     {
+      name: "爱情公寓",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/06c455f2a1c8", tags: ["4K", "己盘", "203G"] },
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1ewetIpc-6qq39dmKeqoJ5g",
+          codeLabel: "提取码",
+          code: "6t6v",
+          tags: ["4K", "己盘", "203G"]
+        }
+      ]
+    },
+    {
+      name: "功夫",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1mrLDRfYKLTjsQmXJyqs1UA",
+          codeLabel: "提取码",
+          code: "96o9",
+          tags: ["4K", "己盘", "7.7G" ]
+        },
+        { label: "夸克", url: "https://pan.quark.cn/s/91f7d6122e11", tags: ["4K", "己盘", "7.7G"] }
+      ]
+    },
+    {
+      name: "调音师",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1xXsLty-FwRu7EZyzqLUVPA",
+          codeLabel: "提取码",
+          code: "9U6K",
+          tags: ["4K", "己盘","18G"]
+        },
+        { label: "夸克", url: "https://pan.quark.cn/s/4d6c03fa7709", tags: ["己盘"] }
+      ]
+    },
+    {
+      name: "肖申克的救赎",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1tV9HfdiPeWD0lgtoeIcA1w",
+          codeLabel: "提取码",
+          code: "ZHU7",
+          tags: ["4K", "己盘", "18G"]
+        },
+        { label: "夸克", url: "https://pan.quark.cn/s/9d855be9181d", tags: ["己盘"] }
+      ]
+    },
+    {
       name: "少林足球",
       links: [
         { label: "夸克", url: "https://pan.quark.cn/s/e217768cefe2", tags: ["1080P", "17.9G", "己盘"] },
