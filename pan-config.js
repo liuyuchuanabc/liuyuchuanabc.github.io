@@ -9,6 +9,26 @@ window.PAN_LINKS_CONFIG = {
   pageTitle: "网盘地址复制",
   movies: [
     {
+      name: "尘埃落定",
+      links: [
+        {
+          label: "迅雷",
+          url: "https://pan.xunlei.com/s/VNF1OAX0UmhBPNFC5iNqvY0jA1?pwd=stdf",
+          codeLabel: "提取码",
+          code: "stdf",
+          tags: ["1080P", "37G", "外盘"]
+        },
+        { label: "夸克", url: "https://pan.quark.cn/s/ea82e520a801", tags: ["1080P", "37G", "己盘"] },
+        { 
+          label: "百度", 
+          url: "https://pan.baidu.com/s/10-8MhdeuP6eI4c4jD-3hBQ", 
+          codeLabel: "提取码",
+          code: "NExs",
+          tags: ["1080P", "37G", "己盘"] 
+        }
+      ]
+    },
+    {
       name: "爱情公寓",
       links: [
         { label: "夸克", url: "https://pan.quark.cn/s/06c455f2a1c8", tags: ["4K", "己盘", "203G"] },
