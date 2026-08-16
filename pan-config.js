@@ -9,6 +9,45 @@ window.PAN_LINKS_CONFIG = {
   pageTitle: "网盘地址复制",
   movies: [
     {
+      name: "哪吒1",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/b4bbf9e73f0f", tags: ["1080P", "己盘"] },
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1RZyMnffjDjZtzkX0jpGMzQ?pwd=zzd7",
+          codeLabel: "提取码",
+          code: "zzd7",
+          tags: ["4K", "己盘"]
+        }
+      ]
+    },
+    {
+      name: "哪吒2",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/d297b5c27b96", tags: ["1080P", "己盘"] },
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1zPIiIFSBh7fpyhKx3LzWVA?pwd=w56e",
+          codeLabel: "提取码",
+          code: "w56e",
+          tags: ["4K", "己盘"]
+        }
+      ]
+    },
+    {
+      name: "人生大事",
+      links: [
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1YQY5oLkaoyN1VhFczvEXdg?pwd=4nf5",
+          codeLabel: "提取码",
+          code: "4nf5",
+          tags: ["1080P", "己盘"]
+        },
+        { label: "夸克", url: "https://pan.quark.cn/s/aead4f4f551f", tags: ["1080P", "己盘"] }
+      ]
+    },
+    {
       name: "尘埃落定",
       links: [
         {
@@ -170,10 +209,10 @@ window.PAN_LINKS_CONFIG = {
         { label: "阿里云盘", url: "https://www.alipan.com/s/Y9GUqpTrw1C", tags: ["1080P", "2.42G", "己盘"] },
         {
           label: "百度盘",
-          url: "https://pan.baidu.com/s/1apFxq0IDfV0hwMO_s9NfMw?pwd=iavh",
+          url: "https://pan.baidu.com/s/1-g6gcq3amo2L3PZOMXP3Ww?pwd=ad56",
           codeLabel: "提取码",
-          code: "iavh",
-          tags: ["1080P","21.97G", "己盘"]
+          code: "ad56",
+          tags: ["1080P", "己盘"]
         },
         { label: "夸克盘", url: "https://pan.quark.cn/s/669c60508062", tags: ["1080P", "18.1G", "己盘"] },
         { label: "迅雷盘", url: "https://pan.xunlei.com/s/VOtzllZhIwg4D7w4UWp4NmxPA1?pwd=hipe", tags: ["1080P", "外盘"] }
