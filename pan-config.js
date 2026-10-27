@@ -8,6 +8,32 @@
 window.PAN_LINKS_CONFIG = {
   pageTitle: "网盘地址复制",
   movies: [
+     {
+      name: "疯狂的动物城1",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/885400d599dc#/list/share", tags: ["4K", "外盘"] },
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1_4VyPGYNyChYAQTs3M6VEA?pwd=dqry#list/path=%2F&vmode=list",
+          codeLabel: "提取码",
+          code: "dqry",
+          tags: ["4K", "外盘"]
+        }
+      ]
+    },
+    {
+      name: "疯狂的动物城2",
+      links: [
+        { label: "夸克", url: "https://pan.quark.cn/s/39521e99c0e9#/list/share", tags: ["4K", "外盘"] },
+        {
+          label: "百度",
+          url: "https://pan.baidu.com/s/1iMQVc39wmhqDFEzOmb6R6w?pwd=4rji#list/path=%2F%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2&vmode=list&parentPath=%2F",
+          codeLabel: "提取码",
+          code: "4rji",
+          tags: ["1080P", "外盘"]
+        }
+      ]
+    },
     {
       name: "哪吒1",
       links: [
